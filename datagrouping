@@ -1,0 +1,15 @@
+Mood – averaged per day
+
+arousal – averaged per day
+valence – averaged per day
+
+activity ?
+
+Screen – totaled for day
+call + sms – count per day
+
+appCat:
+
+builtin  communication  entertainment  finance  weather  travel  
+unknown  social         games          office
+utilities
